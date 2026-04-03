@@ -1,8 +1,13 @@
 User-agent: *
 Allow: /
 
+# Main Sitemap
 Sitemap: https://marjiyaauto.github.io/MarjiyaAuto/sitemap.xml
 
+# Crawl settings
+Crawl-delay: 3
+
+# Major search engines
 User-agent: Googlebot
 Allow: /
 
@@ -12,4 +17,12 @@ Allow: /
 User-agent: DuckDuckBot
 Allow: /
 
-Crawl-delay: 5
+User-agent: Slurp
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Block unnecessary crawling
+Disallow: /private/
+Disallow: /temp/
