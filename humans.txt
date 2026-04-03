@@ -1,14 +1,25 @@
 /* TEAM */
-Developer: GitHub AI SEO Optimization
 Business: Marjiya Auto Jashore
-Location: Jessore, Khulna Division, Bangladesh
+Name (Bangla): মারজিয়া অটো যশোর
 
-/* SITE */
-Language: English / Bengali
-Platform: GitHub Pages
-Type: Local Business Website
+/* LOCATION */
+City: Jessore
+Division: Khulna
+Country: Bangladesh
+
+/* SERVICES */
+Original Motorcycle Spare Parts
+Hero Honda Parts
+Yamaha Parts
+Bajaj Parts
+TVS Parts
+Suzuki Parts
 
 /* CONTACT */
 Phone: +8801349022347
 WhatsApp: https://wa.me/8801349022347
+
+/* WEB */
+Website: https://marjiyaauto.github.io/MarjiyaAuto/
+Blog: https://marjiya-auto.blogspot.com/
 YouTube: https://youtube.com/@marjiya_auto_jashore
