@@ -1,0 +1,5 @@
+Contact: https://wa.me/8801349022347
+Expires: 2027-01-01T00:00:00.000Z
+Preferred-Languages: en, bn
+Canonical: https://marjiyaauto.github.io/MarjiyaAuto/.well-known/security.txt
+Policy: https://marjiyaauto.github.io/MarjiyaAuto/
